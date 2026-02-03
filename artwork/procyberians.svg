@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg307"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="procyberians.svg"
+   inkscape:export-filename="procyberians.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview309"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.28812588"
+     inkscape:cx="293.27459"
+     inkscape:cy="924.94295"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs304" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 190.85473,52.439876 c -84.69318,0 -153.313257,68.423414 -153.313257,152.873854 0,84.45048 68.620077,152.87388 153.313257,152.87388 84.69322,0 153.31327,-68.4234 153.31327,-152.87388 0,-84.45044 -68.62005,-152.873854 -153.31327,-152.873854 z m 0,276.159244 c -68.31095,0 -123.639708,-55.17019 -123.639708,-123.28539 0,-68.11516 55.328758,-123.285361 123.639708,-123.285361 68.31093,0 123.63972,55.170201 123.63972,123.285361 0,68.1152 -55.32879,123.28539 -123.63972,123.28539 z"
+       id="path49"
+       style="fill:#800080;stroke-width:0.617311" />
+  </g>
+</svg>
